@@ -1,0 +1,12 @@
+{
+  "name": "school-life-100",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Installable elementary English speaking PWA for School Life 100 Words.",
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
